@@ -1,0 +1,38 @@
+{
+  "name": "apextracker",
+  "version": "1.0.0",
+  "description": "Track stats for Apex Legends",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server",
+    "server": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptodoct0r/Apex-Legends-Tracker.git"
+  },
+  "keywords": [
+    "Apex",
+    "Tracker",
+    "vuejs",
+    "Express",
+    "Nodejs"
+  ],
+  "author": "Neni Emsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cryptodoct0r/Apex-Legends-Tracker/issues"
+  },
+  "homepage": "https://github.com/cryptodoct0r/Apex-Legends-Tracker#readme",
+  "dependencies": {
+    "concurrently": "^4.1.1",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
