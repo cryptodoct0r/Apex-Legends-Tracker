@@ -28,7 +28,7 @@
 
         <input
           type="submit"
-          value="Submi"
+          value="Submit"
           class="btn"
         >
       </div>
