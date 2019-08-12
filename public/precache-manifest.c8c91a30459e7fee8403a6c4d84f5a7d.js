@@ -32,15 +32,15 @@ self.__precacheManifest = [
     "url": "/index.html"
   },
   {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/robots.txt"
+  },
+  {
     "revision": "d06c9021a4fd2a35add09abe5040bba9",
     "url": "/favicon.png"
   },
   {
     "revision": "badc059db553d3c4d014ad48534b9567",
     "url": "/logo.png"
-  },
-  {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "/robots.txt"
   }
 ];
